@@ -1,1 +1,1 @@
-A Database class to resolve data, by creating an constructor in php to use avalable function such as insert, delete, update
+# Database class
